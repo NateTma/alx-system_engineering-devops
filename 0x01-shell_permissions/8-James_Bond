@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ug-rwx,o+rwx hello
+chmod ug-r,ug-w,ug-x,o+rwx hello
